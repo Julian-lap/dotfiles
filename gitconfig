@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = julian.lapique@orange.fr
+	name = Julian Lapique
